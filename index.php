@@ -129,8 +129,8 @@ section {
 </head>
 <body style="margin:0; padding:0;">
         <div id="header" style="padding-top:20px; height:70px">
-                <h2 style="margin:0; padding:0;"> <a href="index.html" style="text-decoration:none; color:inherit; font-size:30px;">Online Blood Bank        ||       </a>
-                <span style="position: relative; right:0; bottom:3px;padding:8px;font-size:20px;text-align:center;"><a id="linkstyle"  href="index.html"> Home</a> </span>
+                <h2 style="margin:0; padding:0;"> <a href="index.php" style="text-decoration:none; color:inherit; font-size:30px;">Online Blood Bank        ||       </a>
+                <span style="position: relative; right:0; bottom:3px;padding:8px;font-size:20px;text-align:center;"><a id="linkstyle"  href="index.php"> Home</a> </span>
                 <span style="position: relative; right:0; bottom:3px;padding:8px;font-size:20px;text-align:center;"><a id="linkstyle"  href="user-donor-reg.php"> Donate Blood</a></span>
                 <span style="position: relative; right:0; bottom:3px;padding:8px;font-size:20px;text-align:center;"><a id="linkstyle"  href="user-Request-blood.php"> Request for Blood</a></span>
                 <span style="position: relative; right:0; bottom:3px;padding:8px;font-size:20px;text-align:center;"><a id="linkstyle"  href="user-contact.php"> Contact Us</a>  </span>
