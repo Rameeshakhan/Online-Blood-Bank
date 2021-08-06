@@ -18,7 +18,7 @@ session_start();
     <div id="full">
         <div id="inner_full" style="width:100%;">
             <div id="header">
-                <h2 style="padding:1px;"><a href="index.html" style="text-decoration:none; color:inherit;"> Online Blood Bank</a></h2>
+                <h2 style="padding:1px;"><a href="index.php" style="text-decoration:none; color:inherit;"> Online Blood Bank</a></h2>
             </div>
             <div id="body">
                 <br><br><br><br><br>
