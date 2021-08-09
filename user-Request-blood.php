@@ -96,11 +96,17 @@ session_start();
                     $q-> bindValue('email', $email);
                     $q-> bindValue('phone', $phone);
                     
-                    if($q->execute()){
+                    $check=$db->prepare("SELECT bloodgroup from blood_donor");
+                    if($check!=$bloodgroup){
+                            echo "<script>
+                            alert('Stock is not available')
+                            </script>";
+                        }
+                    elseif($q->execute()){
                         echo "<script>
                               alert('Request Approved')
-                        </script>";
-                    }
+                              </script>";
+                        }
                     else{
                         echo "<script>
                         alert('Something went wrong..')
