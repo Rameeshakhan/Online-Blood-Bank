@@ -91,7 +91,7 @@ session_start();
                         </tr>
                         <tr>
                             <td id="labelstyles-dreg" width="200px" height="50px">Phone</td>
-                            <td  width="200px" height="50px"><input id="inputstyles-dreg" type="text" name="phone" placeholder="  Enter your Mobile no" required></td>
+                            <td  width="200px" height="50px"><input id="inputstyles-dreg" type="text" name="phone" placeholder="  Enter your Mobile no" pattern="03[0-9]{2}-(?!1234567)(?!1111111)(?!7654321)[0-9]{7}" required></td>
                         </tr>
                         <tr>
                             <td id="labelstyles-dreg" width="200px" height="50px">Message</td>
