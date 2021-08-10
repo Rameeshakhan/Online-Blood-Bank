@@ -32,7 +32,7 @@ session_start();
                         </tr>
                         <tr>
                             <td width="200px " height="70px " style="font-size:20px;color:gray;"><b>Password</b></td>
-                            <td width=" 200px " height="70px "><input type="password " name="password" placeholder="  Enter Password " required id="labelstyles"></td>
+                            <td width=" 200px " height="70px "><input type="password" name="password" placeholder="  Enter Password " required id="labelstyles"></td>
                         </tr>
                         <br>
                         <br>
