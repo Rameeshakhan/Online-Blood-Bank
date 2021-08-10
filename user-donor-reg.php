@@ -64,7 +64,7 @@ session_start();
                             <td id="labelstyles-dreg" width="200px" height="50px">Email</td>
                             <td width="200px" height="50px"><input id="inputstyles-dreg" type="text" name="email" placeholder="  Enter your email" required></td>
                             <td id="labelstyles-dreg" width="200px" height="50px">Phone</td>
-                            <td width="200px" height="50px"><input id="inputstyles-dreg" type="text" name="phone" placeholder="  Enter your phone no." required></td>
+                            <td width="200px" height="50px"><input id="inputstyles-dreg" type="text" name="phone" placeholder="  Enter your phone no." pattern="03[0-9]{2}-(?!1234567)(?!1111111)(?!7654321)[0-9]{7}" required></td>
                         </tr>
                         <tr>
                             <br><br><td><input style="width: 80px; height: 40px;border-radius: 5px; font-size: 16; background-color: rgb(241, 57, 57); font-weight: 1000;color: rgb(160, 1, 1); position:relative; left:300px; top:20px;" type="submit" value="Register" name="dreg" ></td>
