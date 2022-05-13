@@ -203,9 +203,7 @@ function showSlides() {
          donate your blood can save a life, or even several if your blood is separated into its components – red cells, 
          platelets and plasma – which can be used individually for patients with specific conditions. Today, most
         medical care depends on a steady supply of blood from donors, as one in seven people entering the hospital 
-        need blood. For Moffitt, as cancer care increases, so does the demand for blood and platelet donations. An 
-        adequate amount of blood is needed in all health care facilities to meet the urgent need for patients facing
-        trauma and other lifesaving procedures, such as blood transfusions – which saves millions of lives each year.
+        need blood. For Moffitt, as cancer care increases, so does the demand for blood and platelet donations.
         Donating blood is a simple procedure that can be done within an hour. To donate blood in your local community
          can give you strength of helping others at fullest.For futher details check our about section.
          <br><br><button style="background-color: rgb(160, 1, 1);font-size:20px;border:none; border-radius:4px;padding:5px;color:white;">
